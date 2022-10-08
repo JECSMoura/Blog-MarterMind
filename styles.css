@@ -56,15 +56,14 @@ article {
 }
 
 article img {
-    width: 55%;
+    width: 29%;
     float: right;
     margin: 0 0 2.5em 2em;
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.39);
 }
 
 p {
     font-size: 1.5em;
-    line-height: 60%;
+    line-height: 129%;
     margin-bottom: 1em;
 }
 
