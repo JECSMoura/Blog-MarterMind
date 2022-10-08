@@ -2,7 +2,7 @@
 
 <div aling="center">
 <video height="300em" height="300em" controls>
- src="/assets/video" type="video/mp4">
+ <source="./assets/video.mp4" type="video/mp4">
  </video>
 
 </div>
