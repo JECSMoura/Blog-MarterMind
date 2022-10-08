@@ -1,15 +1,9 @@
 # Blog-MarterMind
 
-<div aling="center">
-<video height="300em" height="300em" controls>
- <source="./assets/video.mp4" type="video/mp4">
- </video>
 
-</div>
+<p>"The 'Ultimate Productivity' will take your life to another level of productivity. Learn how the world's brightest minds use to be more productive, creative and smart.
 
-<p>"A 'Produtividade Suprema' vai te levar para outro nível de produtividade na sua vida. Aprenda as técnicas que as mentes mais brilhantes do mundo usam para serem mais produtivas, criativas e inteligentes.
-
-Entenda como usar sua mente e seu corpo a seu favor para chegar até seus objetivos."</p>
+Understand how to use your mind and body to your advantage to reach your goals."</p>
 
 Deploy: https://jecsm-blog-mastermind.netlify.app/
 
